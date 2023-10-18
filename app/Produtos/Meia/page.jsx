@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Meia() {
+export default function meia() {
   return (
     <div>
         <h1>MEIA</h1>

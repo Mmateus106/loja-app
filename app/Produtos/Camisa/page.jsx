@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Camisa() {
+export default function camisa() {
   return (
     <div>
         <h1>CAMISA</h1>

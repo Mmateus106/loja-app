@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Calca() {
+export default function calca() {
   return (
     <div>
         <h1>CALÇA</h1>

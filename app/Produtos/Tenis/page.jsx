@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Tenis() {
+export default function tenis() {
   return (
     <div>
         <h1>TÊNIS</h1>
